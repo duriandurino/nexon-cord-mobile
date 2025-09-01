@@ -4,7 +4,7 @@ import android.app.Activity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
-import com.theateam.nexoncord.R
+import com.theateam.nexoncordapp.R
 
 class LoginActivity : Activity() {
 
@@ -13,7 +13,7 @@ class LoginActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        val user:String = findViewById<EditText>(R.id.etuser).text.toString()
+        val email:String = findViewById<EditText>(R.id.etemail).text.toString()
         val password:String = findViewById<EditText>(R.id.etpassword).text.toString()
 
         val loginbtn:Button = findViewById<Button>(R.id.btnlogin)

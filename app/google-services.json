@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609178314364",
+    "project_id": "nexon-cord-32dd5",
+    "storage_bucket": "nexon-cord-32dd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609178314364:android:a3a6db543a6df747b20bf9",
+        "android_client_info": {
+          "package_name": "com.theateam.nexoncordapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNqAsc9eFw_lehDJimNpLIGCUHTgDZc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
