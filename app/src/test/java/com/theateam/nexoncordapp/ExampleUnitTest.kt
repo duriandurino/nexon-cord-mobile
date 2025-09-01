@@ -1,4 +1,4 @@
-package com.theateam.nexoncord
+package com.theateam.nexoncordapp
 
 import org.junit.Test
 
